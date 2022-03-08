@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Determine_season_app/static/css/main.898c9a0b.css",
+    "main.js": "/Determine_season_app/static/js/main.6d01f5c9.js",
+    "index.html": "/Determine_season_app/index.html",
+    "main.898c9a0b.css.map": "/Determine_season_app/static/css/main.898c9a0b.css.map",
+    "main.6d01f5c9.js.map": "/Determine_season_app/static/js/main.6d01f5c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.898c9a0b.css",
+    "static/js/main.6d01f5c9.js"
+  ]
+}
